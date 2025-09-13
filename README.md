@@ -4,9 +4,9 @@ This repository focuses on using **MAPLE** in order to model a differential equa
 # Overview:
 This project explores the repayment of a $500,000 mortgage at a fixed annual interest rate of 6 percent over 30 years. Using Maple, the repayment schedule is modeled through both a differential equation approach and a simulation with daily compounding and monthly payments. The code calculates the required annual and monthly payments, simulates different payment timings, and produces a graph showing how the mortgage balance declines over time. The project highlights the **impact of payment timing on the final loan balance** and provides a foundation for experimenting with alternative repayment structures.
 # Content:
-1. Mortgage_Repayment_Output.pdf    -Maplesoft code and calculations
-2. Mortgage_Repayment_Report.pdf    -Discussion of results
-3. Mortgage_Repayment_Source_Code.mapl  -Source code for reproducibility and or modification
+1. **Mortgage_Repayment_Output.pdf**    -Maplesoft code and calculations
+2. **Mortgage_Repayment_Report.pdf**    -Discussion of results
+3. **Mortgage_Repayment_Source_Code.mapl**  -Source code for reproducibility and or modification
 # Requirements:
 1. Maple software version 2024 
 # Key Findings:
